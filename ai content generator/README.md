@@ -41,6 +41,6 @@ python -m streamlit run app.py
 
 ## Author
 
-Harish Chandra
+Nunna Harish Chandra Surya Bhaskar
 
 WeIntern AIML Internship - Week 2
